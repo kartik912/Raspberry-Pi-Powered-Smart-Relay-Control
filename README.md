@@ -57,15 +57,11 @@ This project demonstrates how to leverage computer vision using Raspberry Pi to 
 
 ## Running the Project
 
-1. Place the YOLO configuration and weight files in the specified path:
-   - **COCO Names**: `/home/kartik/Desktop/Object_Detection_Files/coco.names`
-   - **Config Path**: `/home/kartik/Desktop/Object_Detection_Files/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt`
-   - **Weights Path**: `/home/kartik/Desktop/Object_Detection_Files/frozen_inference_graph.pb`
-2. Run the Python script:
+1. Run the Python script:
    ```bash
    python3 main.py
    ```
-3. Observe the live feed and relay control in action. Press `q` to exit.
+2. Observe the live feed and relay control in action. Press `q` to exit.
 
 ---
 
@@ -110,5 +106,4 @@ This project demonstrates how to leverage computer vision using Raspberry Pi to 
 
 This project is open-source and available under the MIT License. Contributions are welcome!
 
-give me the code for this that i can put in my github
 
